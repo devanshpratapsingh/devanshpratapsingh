@@ -3,10 +3,12 @@ I'm an ML enthusiast and as much as I believe am doing my best to do some good s
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshpratapsingh&show_icons=true&theme=blue-green)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshpratapsingh&repo=Paper_Implementations&theme=blue-green)](https://github.com/devanshpratapsingh/Paper_Implementations)
+
 
 <!--
 **devanshpratapsingh/devanshpratapsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshpratapsingh&repo=Paper_Implementations&theme=blue-green)](https://github.com/devanshpratapsingh/Paper_Implementations)
 
 Here are some ideas to get you started:
 
