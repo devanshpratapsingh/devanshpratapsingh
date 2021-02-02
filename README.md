@@ -10,7 +10,7 @@ I'm an ML enthusiast and as much as I believe am doing my best to do some good s
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshpratapsingh&repo=Paper_Implementations&theme=blue-green)](https://github.com/devanshpratapsingh/Paper_Implementations)
 
-### Contact Info
+
 You can find me at [<img src="https://github.com/AakritiKinra/AakritiKinra/blob/main/linkedin.svghttps://github.com/devanshpratapsingh/devanshpratapsingh/blob/main/linkedin.svg" width="30px">](https://www.linkedin.com/in/devanshps25/) and [<img src="https://github.com/devanshpratapsingh/devanshpratapsingh/blob/main/instagram.svg" width="30px">](https://www.instagram.com/devanshh25/)
 
 Here are some ideas to get you started:
