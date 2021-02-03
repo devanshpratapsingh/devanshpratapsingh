@@ -3,6 +3,8 @@ I'm an ML enthusiast and as much as I believe am doing my best to do some good s
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshpratapsingh&show_icons=true&theme=blue-green)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshpratapsingh&layout=compact&count_private=true&theme=blue-green" />
+
 You can find me at  [<img src="https://github.com/devanshpratapsingh/devanshpratapsingh/blob/main/linkedin.svg" width="23px" backgroung="white">](https://www.linkedin.com/in/devanshps25/)  and  [<img src="https://github.com/devanshpratapsingh/devanshpratapsingh/blob/main/instagram.svg" width="23px">](https://www.instagram.com/devanshh25/)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devanshpratapsingh.devanshpratapsingh)
