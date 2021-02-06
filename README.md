@@ -7,6 +7,8 @@ I'm an ML enthusiast and as much as I believe am doing my best to do some good s
 
 You can find me at  [<img src="https://github.com/devanshpratapsingh/devanshpratapsingh/blob/main/linkedin.svg" width="23px" backgroung="white">](https://www.linkedin.com/in/devanshps25/)  and  [<img src="https://github.com/devanshpratapsingh/devanshpratapsingh/blob/main/instagram.svg" width="23px">](https://www.instagram.com/devanshh25/)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshpratapsingh" alt="Github Streak Stats">
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devanshpratapsingh.devanshpratapsingh)
 
 
