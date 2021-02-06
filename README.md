@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm an ML enthusiast and as much as I believe am doing my best to do some good stuff in Computer Vision and NPL. Ping me for group projects or coffee ;) 
 
-<p align="center">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshpratapsingh&show_icons=true&theme=blue-green)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshpratapsingh&layout=compact&count_private=true&theme=blue-green" />
@@ -11,8 +9,6 @@ You can find me at  [<img src="https://github.com/devanshpratapsingh/devanshprat
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devanshpratapsingh.devanshpratapsingh)
-
-</p>
 
 <!--
 **devanshpratapsingh/devanshpratapsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
