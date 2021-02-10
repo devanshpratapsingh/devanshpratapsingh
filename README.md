@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an ML enthusiast and as much as I believe am doing my best to do some good stuff in Computer Vision and NPL. Ping me for group projects or coffee ;) 
+I'm an ML enthusiast and as much as I believe am doing my best to do some good stuff in Computer Vision and NPL. Ping me for group projects, hackathons or coffee ;) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshpratapsingh&show_icons=true&theme=blue-green)
 
